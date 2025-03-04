@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private float _speed = 6.0f;
 
+    [SerializeField]
     private float _jumpSpeed = 10.0f;
 
     [SerializeField]
